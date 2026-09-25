@@ -1,0 +1,16 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^samples$
+^\.httr-oauth$
+^data-raw$
+^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.claude$
+^[^/]+[.]pdf$
+^tests/testthat/Rplots[.]pdf$
+^tests/testthat/.*[.]orig$
+^man/figures/.* copy[.]png$
+^CITATION\.cff$

@@ -1,0 +1,41 @@
+url: https://natverse.org/malecns/
+template:
+  bootstrap: 5
+reference:
+- title: Package overview, setup and general functions
+  contents:
+  - '`malecns`'
+  - '`dr_malecns`'
+  - '`choose_mcns_dataset`'
+  - '`with_mcns`'
+  - '`mcns_scene`'
+- title: Specify and check body ids
+  contents:
+  - '`mcns_ids`'
+  - '`mcns_islatest`'
+  - '`mcns_xyz2bodyid`'
+- title: Neuprint queries including connectivity
+  contents:
+  - '`mcns_neuprint`'
+  - '`mcns_neuprint_meta`'
+  - '`mcns_connection_table`'
+  - '`mcns_cosine_plot`'
+  - '`mcns_predict_group`'
+  - '`mcns_predict_type`'
+  - '`mcns_soma_side`'
+- title: Neuron skeletons and meshes
+  contents:
+  - '`read_mcns_meshes`'
+  - '`read_mcns_neurons`'
+- title: Clio/DVID Annotations
+  contents:
+  - '`mcns_annotate_body`'
+  - '`mcns_body_annotations`'
+  - '`mcns_dvid_annotations`'
+  - '`mcns_set_dvid_annotations`'
+- title: Registrations, geometry and neuropil meshes
+  contents:
+  - '`mcns_download_xforms2`'
+  - '`mcns_register_xforms2`'
+  - '`mirror_malecns`'
+  - '`malecns_shell.surf`'
